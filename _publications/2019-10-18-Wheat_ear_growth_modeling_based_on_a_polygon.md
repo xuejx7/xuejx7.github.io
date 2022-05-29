@@ -9,4 +9,4 @@ venue: 'Frontiers of Information Technology & Electronic Engineering'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-Cite: Xue J, Sun C, Cheng J, et al. Wheat ear growth modeling based on a polygon[J]. Frontiers of Information Technology & Electronic Engineering, 2019, 20(9): 1175-1184.  \| [PDF](http://shibo2.github.io/files/2019-10-18-Wheat_ear_growth_modeling_based_on_a_polygon.pdf)
+Cite: Xue J, Sun C, Cheng J, et al. Wheat ear growth modeling based on a polygon[J]. Frontiers of Information Technology & Electronic Engineering, 2019, 20(9): 1175-1184.  \| [PDF](http://xuejx7.github.io/files/2019-10-18-Wheat_ear_growth_modeling_based_on_a_polygon.pdf)
