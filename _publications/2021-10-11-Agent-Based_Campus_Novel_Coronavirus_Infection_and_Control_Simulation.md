@@ -9,4 +9,4 @@ venue: 'IEEE Transactions on Computational Social Systems'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-Cite: Lv P, Zhang Q, Xu B, et al. Agent-Based Campus Novel Coronavirus Infection and Control Simulation[J]. IEEE Transactions on Computational Social Systems, 2021.  \| [PDF](http://shibo2.github.io/files/2021-10-11-Agent-Based_Campus_Novel_Coronavirus_Infection_and_Control_Simulation.pdf)
+Cite: Lv P, Zhang Q, Xu B, et al. Agent-Based Campus Novel Coronavirus Infection and Control Simulation[J]. IEEE Transactions on Computational Social Systems, 2021.  \| [PDF](http://xuejx7.github.io/files/2021-10-11-Agent-Based_Campus_Novel_Coronavirus_Infection_and_Control_Simulation.pdf)
