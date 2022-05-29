@@ -9,4 +9,4 @@ venue: 'Journal of Computer Science and Technology'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-Cite: Xu M L, Gu N B, Xu W W, et al. Mechanical assembly packing problem using joint constraints[J]. Journal of Computer Science and Technology, 2017, 32(6): 1162-1171.  \| [PDF](http://shibo2.github.io/files/2017_Mechanical_Assembly_Packing_Problem_Using_Joint_Constraints.pdf)
+Cite: Xu M L, Gu N B, Xu W W, et al. Mechanical assembly packing problem using joint constraints[J]. Journal of Computer Science and Technology, 2017, 32(6): 1162-1171.  \| [PDF](http://xuejx7.github.io/files/2017_Mechanical_Assembly_Packing_Problem_Using_Joint_Constraints.pdf)
