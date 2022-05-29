@@ -9,4 +9,4 @@ venue: 'Computer Animation and Virtual Worlds'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-Cite: Li M, Jiang X, Gu N, et al. Disassembling a 3D mechanism for efficient packing[J]. Computer Animation and Virtual Worlds, 2019, 30(2): e1861.  \| [PDF](http://shibo2.github.io/files/2019_Disassembling_a_3D_mechanism_for_efficient_packing.pdf)
+Cite: Li M, Jiang X, Gu N, et al. Disassembling a 3D mechanism for efficient packing[J]. Computer Animation and Virtual Worlds, 2019, 30(2): e1861.  \| [PDF](http://xuejx7.github.io/files/2019_Disassembling_a_3D_mechanism_for_efficient_packing.pdf)
