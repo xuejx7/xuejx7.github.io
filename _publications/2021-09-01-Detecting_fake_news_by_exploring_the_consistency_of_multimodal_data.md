@@ -9,4 +9,4 @@ venue: 'Information Processing & Management'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-Cite: Xue J, Wang Y, Tian Y, et al. Detecting fake news by exploring the consistency of multimodal data[J]. Information Processing & Management, 2021, 58(5): 102610.  \| [PDF](http://shibo2.github.io/files/2021-09-01-Detecting_fake_news_by_exploring_the_consistency_of_multimodal_data.pdf)
+Cite: Xue J, Wang Y, Tian Y, et al. Detecting fake news by exploring the consistency of multimodal data[J]. Information Processing & Management, 2021, 58(5): 102610.  \| [PDF](http://xuejx7.github.io/files/2021-09-01-Detecting_fake_news_by_exploring_the_consistency_of_multimodal_data.pdf)
