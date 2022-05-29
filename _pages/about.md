@@ -18,9 +18,11 @@ Introduction to the Subject Group
 ------
 CCL —— Center for Computational Learning
 
-　　A normal tinkering innovation is like a worm coming out of the bottom of a bamboo, it has to penetrate section by section before it can eventually crawl out, this is called a vertical exit.
-　　Disruptive innovation is like a worm coming out by punching a hole through the side of the bamboo, without having to punch through section by section, which is called a horizontal exit.
-　　The central problem of computational learning: Formalisation - the aim of all science, whether natural or social, is to reconcile our experiences with each other and to integrate them into a logical system!
+A normal tinkering innovation is like a worm coming out of the bottom of a bamboo, it has to penetrate section by section before it can eventually crawl out, this is called a vertical exit.
+　　
+Disruptive innovation is like a worm coming out by punching a hole through the side of the bamboo, without having to punch through section by section, which is called a horizontal exit.
+
+The central problem of computational learning: Formalisation - the aim of all science, whether natural or social, is to reconcile our experiences with each other and to integrate them into a logical system!
 
 I. Methods: 1. Deep Reinforcement Learning; 2. Multimodal Computing; 3. Swarm Intelligence.
 
