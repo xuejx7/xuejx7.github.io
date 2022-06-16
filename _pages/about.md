@@ -16,7 +16,7 @@ I am directing the ZZU Computational Learning Lab, where I work with the most br
 
 Introduction to the Subject Group
 ------
-CCL —— Center for Computational Learning
+CLL —— Computational Learning Lab
 
 A normal tinkering innovation is like a worm coming out of the bottom of a bamboo, it has to penetrate section by section before it can eventually crawl out, this is called a vertical exit.
 
