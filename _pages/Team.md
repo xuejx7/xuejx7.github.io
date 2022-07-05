@@ -9,9 +9,8 @@ redirect_from:
 
 ## Faculty
 ---
-<figure>
-  <img src="https://xuejx7.github.io/images/profile.png" width=150>
-</figure>
+
+![avatar](../images/profile1.png)
 
 > Xuejun Xiao (薛均晓), xuejx@zzu.edu.cn
 
