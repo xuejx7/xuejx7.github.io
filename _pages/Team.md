@@ -12,7 +12,7 @@ redirect_from:
 
 ![avatar](../images/profile1.png)
 
-> Xuejun Xiao (薛均晓), xuejx@zzu.edu.cn
+> Junxiao Xue (薛均晓), xuejx@zzu.edu.cn
 
 ## Master Students
 ---
