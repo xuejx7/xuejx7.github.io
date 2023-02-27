@@ -10,7 +10,8 @@ redirect_from:
 
 Personal Profile
 ------
-I am an Associate Professor in the School of Cyber Science and Engineering, Zhengzhou University, Zhengzhou, China. I received my PhD degree in in computational mathematics from the School of Mathematical Sciences, Dalian University of Technology, Dalian, China, in 2009. My research centers around the affective computing, social media computing and high-fidelity simulation.
+
+I am  an Associate Professor in the School of Cyber Science and Engineering, Zhengzhou University. Since 2023, I have been with Zhejiang Lab, where I am PI in the Research Institute of Artificial Intelligence. I have published more than 50 papers in international conference and journals, including the IEEE Transactions on Knowledge and Data Engineering (TKDE), the IEEE Transactions on Computational Social Systems (TCSS), the Computers & Graphics, the Science China-Information Sciences, etc. My current research interests include computer graphics, virtual reality, and reinforcement learning.
 
 I am directing the ZZU Computational Learning Lab, where I work with the most brilliant students and colleagues worldwide to understand the information of feelings and emotions of human individuals and groups hidden in multi-modal data such as text, sound, image, video, and to design and study new virtual simulation and modeling methods to augment scientists' ability to explore vast amount of data on natural human-computer interaction or immersive virtual environment. Our current approaches combine psychological principles with mathematical modeling.
 
@@ -32,6 +33,5 @@ III. Application Scenarios: DC, Social Governance, etc.
 
 Contact Information
 ------
-Phone: 0371-63887286
 
-Email: xuejx@zzu.edu.cn
+Email: xuejx@zhejianglab.com
