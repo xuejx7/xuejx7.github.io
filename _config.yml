@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Junxiao Xue"
-  avatar           : "profile.png"
-  bio              : "Associate Professor, Zhengzhou University"
-  location         : "Zhengzhou"
+  avatar           : "profile-update.png"
+  bio              : "Pl，Zhejiang Lab"
+  location         : "Zhejiang"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Za9YFVIAAAAJ&hl=zh-CN"
-  email            : "xuejx@zzu.edu.cn"
+  email            : "xuejx@zhejianglab.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
