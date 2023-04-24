@@ -9,4 +9,4 @@ venue: 'Front. Comput. Sci.'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-Cite: Xue J, Zhou H, Song H, et al. Cross-modal information fusion for voice spoofing detection[J]. Speech Communication, 2023, 147: 41-50. \| [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167639323000109)
+Cite: Xue J, Zhou H, Song H, et al. Cross-modal information fusion for voice spoofing detection[J]. Speech Communication, 2023, 147: 41-50.(SCI, CCF-B) \| [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167639323000109)
