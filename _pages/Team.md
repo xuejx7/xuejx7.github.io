@@ -24,7 +24,7 @@ redirect_from:
 
 > Bowei Dong (董博威)，2020级
 
-![avatar](../images/2020-周昊1.png)
+![avatar](../images/2020-ZhouHao.png)
 
 > Hao Zhou (周昊)，2020级
 
