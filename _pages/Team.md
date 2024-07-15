@@ -10,9 +10,9 @@ redirect_from:
 ## Faculty
 ---
 
-![avatar](../images/profile1.png)
+![avatar](../images/WechatIMG5.jpg)
 
-> Junxiao Xue (薛均晓), xuejx@zzu.edu.cn
+> Junxiao Xue (薛均晓), xuejx@zhejianglab.cn
 
 ## Master Students
 ---
