@@ -17,4 +17,4 @@ We rarely look for applicants from any specific area of science, but rather for 
 
 Application
 ===
-Please email me your CV to xuejx@zzu.edu.cn
+Please email me your CV to xuejx@zhejianglab.cn
