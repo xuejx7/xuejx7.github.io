@@ -1,0 +1,33 @@
+{% assign publication_years = site.data.publications | group_by: "year" %}
+
+<div class="publications">
+  {% for year in publication_years %}
+    <section class="publications__year" aria-labelledby="publications-{{ year.name }}">
+      <h2 id="publications-{{ year.name }}">{{ year.name }}</h2>
+
+      {% for publication in year.items %}
+        {% if publication.url %}
+          {% assign publication_url = publication.url %}
+        {% else %}
+          {% capture publication_url %}https://scholar.google.com/scholar?q={{ publication.title | uri_escape }}{% endcapture %}
+        {% endif %}
+
+        <article class="publication">
+          <a class="publication__visual" href="{{ publication_url }}" target="_blank" rel="noopener noreferrer" aria-label="Open {{ publication.title }}">
+            {% if publication.image %}
+              <img src="{{ publication.image | prepend: '/images/publications/' | prepend: base_path }}" alt="Framework figure for {{ publication.title }}" loading="lazy">
+            {% else %}
+              <span class="publication__placeholder" aria-hidden="true"><span>{{ publication.year }}</span></span>
+            {% endif %}
+          </a>
+
+          <div class="publication__citation">
+            <h3 class="publication__title"><a href="{{ publication_url }}" target="_blank" rel="noopener noreferrer">{{ publication.title }}</a></h3>
+            <p class="publication__authors">{{ publication.authors }}</p>
+            <p class="publication__venue"><em>{{ publication.venue }}</em>{% if publication.details %}, {{ publication.details }}{% endif %}.</p>
+          </div>
+        </article>
+      {% endfor %}
+    </section>
+  {% endfor %}
+</div>

@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Computational Learning"
+title                    : "Junxiao Xue"
 title_separator          : "-"
 name                     : &name "Junxiao Xue"
-description              : &description "personal description" 
+description              : &description "Academic homepage of Junxiao Xue, Researcher at Zhejiang Lab."
 url                      : https://xuejx7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuejx7/xuejx7.github.io"
@@ -66,8 +66,8 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person
+  name                   : "Junxiao Xue"
   links: # An array of links to social media profiles
 
 
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Junxiao Xue"
   avatar           : "profile-update.png"
-  bio              : "Pl，Zhejiang Lab"
-  location         : "Zhejiang"
-  employer         :
+  bio              : "Pl, Zhejiang Lab"
+  location         : "Zhejiang, China"
+  # employer         : "Zhejiang Lab"
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Za9YFVIAAAAJ&hl=zh-CN"
-  email            : "xuejx@zhejianglab.com"
+  googlescholar    : "https://scholar.google.com/citations?user=Za9YFVIAAAAJ&hl=zh-CN&oi=ao"
+  email            : "xuejx@zhejianglab.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1569-5362"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
 
 
 # Plugins

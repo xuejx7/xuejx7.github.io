@@ -1,28 +1,13 @@
 # main links links
 main:
+  - title: "PROFESSIONAL"
+    url: /
+
   - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "TEAM"
-    url: /Team/
-
-#  - title: "Talks"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
-    
   - title: "PROJECTS"
     url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
 
-  - title: "NEWS"
-    url: /News/
-
-  - title: "LAB OPENNING"
-    url: /Lab_openning/  
-
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "AWARDS"
+    url: /awards/

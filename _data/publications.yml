@@ -1,0 +1,222 @@
+- year: 2026
+  title: 'Explaining Chain-of-Thought Reasoning in Vision-Language Models via Interactions'
+  authors: 'Yaying Chen, Wen Shen, Kelu Yao, <strong>Junxiao Xue</strong>, et al.'
+  venue: 'ACM International Conference on Multimedia (ACM MM)'
+  details: '2026'
+  image: 'explaining-chain-of-thought.jpg'
+
+- year: 2026
+  title: 'Motif-FPD: Towards Free-Form Natural Language-Driven Functional Protein Design via Motif-Centric LLM'
+  authors: 'Yunyun Shi, Xuecheng Wu, Heli Sun, Ziyang Peng, Dingkang Yang, Hao Wang, Xuechun Liu, Zhibo Wang, <strong>Junxiao Xue</strong>, Liang He'
+  venue: 'ACM International Conference on Multimedia (ACM MM)'
+  details: '2026'
+  image: 'Motif.png'
+
+- year: 2026
+  title: 'FED-Bench: A Cross-Granular Benchmark for Disentangled Evaluation of Facial Expression Editing'
+  authors: 'Fengjian Xue, Xuecheng Wu, Heli Sun, Yunyun Shi, Shi Chen, Liangyu Fu, Dingkang Yang, Hao Wang, <strong>Junxiao Xue</strong>, Liang He'
+  venue: 'European Conference on Computer Vision (ECCV)'
+  details: '2026'
+  url: 'https://eccv.ecva.net/virtual/2026/poster/5905'
+  image: 'fed-bench.png'
+
+
+- year: 2026
+  title: 'Disentangling Hardness from Noise: An Uncertainty-Driven Model-Agnostic Framework for Long-Tailed Remote Sensing Classification'
+  authors: 'C. Ding, <strong>J. Xue</strong>, X. Yin, et al.'
+  venue: 'IEEE International Conference on Multimedia and Expo (ICME)'
+  details: '2026'
+  url: 'https://arxiv.org/abs/2601.00278'
+  image: 'Disentangling-Hardness-from-Noise.png'
+
+- year: 2026
+  title: 'Towards Comprehensive Interactive Change Understanding in Remote Sensing: A Large-Scale Dataset and Dual-Granularity Enhanced VLM'
+  authors: '<strong>J. Xue</strong>, Q. Deng, X. Wu, et al.'
+  venue: 'IEEE Transactions on Geoscience and Remote Sensing'
+  details: '2026'
+  url: 'https://ieeexplore.ieee.org/abstract/document/11322421/'
+  image: 'Toward-Comprehensive-Interactive.png'
+
+- year: 2025
+  title: 'Space Computing Constellation: System Architecture, Implementations and Challenges'
+  authors: 'H. Wang, K. Yao, L. Gong, et al.'
+  venue: 'IEEE Internet of Things Journal'
+  details: '2025'
+  url: 'https://ieeexplore.ieee.org/abstract/document/11316138'
+  image: 'Space-Computing-Constellation.png'
+
+- year: 2025
+  title: 'AD-AVSR: Asymmetric Dual-Stream Enhancement for Robust Audio-Visual Speech Recognition'
+  authors: '<strong>J. Xue</strong>, X. Liu, X. Wu, et al.'
+  venue: 'ACM MM SVC Workshop'
+  details: '2025, pp. 3-11'
+  url: 'https://dl.acm.org/doi/abs/10.1145/3728425.3759905'
+  image: 'ad-avsr.png'
+
+- year: 2025
+  title: 'Multi-Scale Augmentation for Enhanced Long-Tailed Remote Sensing Object Classification'
+  authors: 'C. Ding, <strong>J. Xue</strong>, C. Li, et al.'
+  venue: 'ACM MM McGE Workshop'
+  details: '2025, pp. 89-97'
+  url: 'https://dl.acm.org/doi/abs/10.1145/3746278.3759386'
+  image: 'Multi-Scale-Augmentation.png'
+
+- year: 2025
+  title: 'Towards Emotion Analysis in Short-Form Videos: A Large-Scale Dataset and Baseline'
+  authors: 'X. Wu, H. Sun, <strong>J. Xue</strong>, et al.'
+  venue: 'International Conference on Multimedia Retrieval (ICMR)'
+  details: '2025, pp. 1497-1506'
+  url: 'https://dl.acm.org/doi/abs/10.1145/3731715.3733453'
+  image: 'Towards-Emotion-Analysis.png'
+
+- year: 2025
+  title: 'HOLA: Enhancing Audio-Visual Deepfake Detection via Hierarchical Contextual Aggregations and Efficient Pre-Training'
+  authors: 'X. Wu, H. Sun, D. Huang, et al.'
+  venue: 'ACM International Conference on Multimedia (ACM MM)'
+  details: '2025, pp. 13692-13699'
+  url: 'https://dl.acm.org/doi/abs/10.1145/3746027.3761980'
+  image: 'hola.png'
+
+- year: 2025
+  title: 'A Benchmark of Microvideos for Public Opinion Analysis'
+  authors: '<strong>J. Xue</strong>, J. Wang, X. Liu, et al.'
+  venue: 'IEEE Transactions on Computational Social Systems'
+  details: '2025'
+  url: 'https://ieeexplore.ieee.org/abstract/document/11204365'
+  image: 'A-Benchmark-of-Microvideos.png'
+
+- year: 2025
+  title: 'A Trustworthy Method for Multimodal Emotion Recognition'
+  authors: '<strong>J. Xue</strong>, X. Liu, J. Wang, et al.'
+  venue: 'Big Data Mining and Analytics'
+  details: '2025, 9(1): 229-247'
+  url: 'https://ieeexplore.ieee.org/abstract/document/11293118'
+  image: 'A-Trustworthy-Method-for-Multimodal.png'
+
+- year: 2025
+  title: 'Efficient Resource Allocation in Computing Power Networks Considering Similar Task Merging: A Lyapunov Optimization-Based DRL Approach'
+  authors: 'Z. Jia, <strong>J. Xue</strong>, L. Shi, et al.'
+  venue: 'IEEE Internet of Things Journal'
+  details: '2025'
+  url: 'https://ieeexplore.ieee.org/abstract/document/10924222'
+  image: 'Efficient-Resource-Allocation.png'
+
+- year: 2025
+  title: 'AVF-MAE++: Scaling Affective Video Facial Masked Autoencoders via Efficient Audio-Visual Self-Supervised Learning'
+  authors: 'X. Wu, H. Sun, Y. Wang, et al.'
+  venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
+  details: '2025, pp. 9142-9153'
+  url: 'https://ieeexplore.ieee.org/abstract/document/11092386'
+  image: 'avf-mae++.png'
+
+- year: 2025
+  title: 'Improved DDPG Based on Enhancing Decision Evaluation for Path Planning in High-Density Environments'
+  authors: '<strong>J. Xue</strong>, M. He, J. Chen, et al.'
+  venue: 'Expert Systems with Applications'
+  details: '2025, 279: 127378'
+  url: 'https://www.sciencedirect.com/science/article/abs/pii/S0957417425010000'
+  image: 'Improved-DDPG.png'
+
+- year: 2024
+  title: 'Affective Video Content Analysis: Decade Review and New Perspectives'
+  authors: '<strong>J. Xue</strong>, J. Wang, X. Liu, et al.'
+  venue: 'Big Data Mining and Analytics'
+  details: '2024, 8(1): 118-144'
+  url: 'https://ieeexplore.ieee.org/abstract/document/10807333'
+  image: 'Affective-Video-Content-Analysis.png'
+
+- year: 2024
+  title: 'Enhancing Human Action Recognition with Fine-Grained Body Movement Attention'
+  authors: 'R. Zhang, <strong>J. Xue</strong>, F. Lin, et al.'
+  venue: 'IEEE International Conference on Multimedia and Expo (ICME)'
+  details: '2024, pp. 1-6'
+  url: 'https://ieeexplore.ieee.org/abstract/document/10688034'
+  image: 'Enhancing-Human-Action.png'
+
+- year: 2024
+  title: 'Resolving the Resource Decision-Making Dilemma of Leaderless Group-Based Multiagent Systems and Repeated Games'
+  authors: '<strong>J. Xue</strong>, M. Zhang, B. Dong, et al.'
+  venue: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
+  details: '2024, 54(10): 6358-6371'
+  url: 'https://ieeexplore.ieee.org/abstract/document/10611745'
+  image: 'Resolving-the-Resource.png'
+
+- year: 2023
+  title: 'Metaverse Community Group Loyalty Contagion and Regulation Model Based on User Stickiness'
+  authors: '<strong>J. Xue</strong>, M. Zhang'
+  venue: 'IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)'
+  details: '2023, pp. 877-878'
+  url: 'https://ieeexplore.ieee.org/abstract/document/10108625'
+  image: 'Metaverse-Community-Group.png'
+
+- year: 2023
+  title: 'Fine-Grained Sequence-to-Sequence Lip Reading Based on Self-Attention and Self-Distillation'
+  authors: '<strong>J. Xue</strong>, S. Huang, H. Song, et al.'
+  venue: 'Frontiers of Computer Science'
+  details: '2023, 17(6): 176344'
+  url: 'https://link.springer.com/article/10.1007/s11704-023-2230-x'
+  image: 'Fine-Grained-Sequence-to-Sequence.png'
+
+- year: 2023
+  title: 'Physiological-Physical Feature Fusion for Automatic Voice Spoofing Detection'
+  authors: '<strong>J. Xue</strong>, H. Zhou'
+  venue: 'Frontiers of Computer Science'
+  details: '2023, 17(2): 172318'
+  url: 'https://link.springer.com/article/10.1007/s11704-022-2121-6'
+  image: 'Physiological-Physical-Feature.png'
+
+- year: 2023
+  title: 'Cross-Modal Information Fusion for Voice Spoofing Detection'
+  authors: '<strong>J. Xue</strong>, H. Zhou, H. Song, et al.'
+  venue: 'Speech Communication'
+  details: '2023, 147: 41-50'
+  url: 'https://www.sciencedirect.com/science/article/abs/pii/S0167639323000109'
+  image: 'Cross-Modal-Information.png'
+
+- year: 2023
+  title: 'Efficient Top-k Matching for Publish/Subscribe Ride Hitching'
+  authors: 'Yafei Li, Rui Chen, Shangwei Guo, <strong>Junxiao Xue</strong>, Mingliang Xu'
+  venue: 'IEEE Transactions on Knowledge and Data Engineering'
+  details: '2023, 35(4): 3808-3821'
+  url: 'https://ieeexplore.ieee.org/document/9599395'
+  image: 'top-k-ride-hitching.jpg'
+
+- year: 2021
+  title: 'Agent-Based Campus Novel Coronavirus Infection and Control Simulation'
+  authors: 'Pei Lv, Boya Xu, Ran Feng, Chaochao Li, <strong>Junxiao Xue</strong>'
+  venue: 'IEEE Transactions on Computational Social Systems'
+  details: '2021, 9(3): 688-699'
+  url: 'https://ieeexplore.ieee.org/document/9566613'
+  image: 'campus-covid-simulation.jpg'
+
+- year: 2021
+  title: 'Modelling the Impact of Social Distancing on the COVID-19 Pandemic in a Low Transmission Setting'
+  authors: '<strong>Junxiao Xue</strong>, Mingchuang Zhang, Mingliang Xu'
+  venue: 'IEEE Transactions on Computational Social Systems'
+  details: '2021, 9(4): 1122-1131'
+  url: 'https://ieeexplore.ieee.org/document/9631959'
+  image: 'social-distancing-model.jpg'
+
+- year: 2021
+  title: 'Detecting Fake News by Exploring the Consistency of Multimodal Data'
+  authors: '<strong>Junxiao Xue</strong>, Yabo Wang, Lei Shi, Lin Wei'
+  venue: 'Information Processing & Management'
+  details: '2021, 58(5): 102610'
+  url: 'https://www.sciencedirect.com/science/article/pii/S0306457321001060'
+  image: 'fake-news-consistency.jpg'
+
+- year: 2019
+  title: 'Crowd Queuing Simulation with an Improved Emotional Contagion Model'
+  authors: '<strong>Junxiao Xue</strong>, Hui Yin, et al.'
+  venue: 'Science China Information Sciences'
+  details: '2019, 62(4): 44101'
+  url: 'https://www.sciengine.com/SCIS/doi/10.1007/s11432-018-9654-6'
+  image: 'crowd-queuing-simulation.jpg'
+
+- year: 2017
+  title: 'Mechanical Assembly Packing Problem Using Joint Constraints'
+  authors: 'Mingliang Xu, Ningbo Gu, Weiwei Xu, Mingyuan Li, <strong>Junxiao Xue</strong>, Bing Zhou'
+  venue: 'Journal of Computer Science and Technology'
+  details: '2017, 32(6): 1162-1171'
+  url: 'https://link.springer.com/article/10.1007/s11390-017-1791-2'
+  image: 'mechanical-assembly-packing.jpg'

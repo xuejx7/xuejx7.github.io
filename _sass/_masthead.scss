@@ -46,8 +46,28 @@
   list-style-type: none;
   white-space: nowrap;
 
-  &--lg {
-    padding-right: 2em;
+  &--active {
     font-weight: 700;
+  }
+}
+
+.masthead__site-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  padding: 0.5rem 0;
+  color: $masthead-link-color;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.masthead__menu .greedy-nav {
+  box-sizing: border-box;
+  width: 100%;
+  padding-left: 10em;
+
+  @include breakpoint($large) {
+    padding-left: span(2.5 of 12);
   }
 }
